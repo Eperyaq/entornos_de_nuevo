@@ -4,4 +4,5 @@ fun main() {
     println("3")
     println("4")
     println("5")
+    println("6")
 }
